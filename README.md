@@ -3,7 +3,7 @@ Spring MVC Initializer Example
 
 Basic Spring MVC 4.0.x application using `WebApplicationInitializer` instead of `web.xml`.
 
-Check out [kielczewski.eu/blog](http://kielczewski.eu/blog)!
+Check out [fengyingsheng.com](http://www.fengyingsheng.com)!
 
 Requirements
 ------------
